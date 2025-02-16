@@ -38,5 +38,8 @@ The output:
 1929 373750.0 359863.281250 13886.718750
 
 [1930 rows x 3 columns]
+
+unseen inputS
 Units Sold Campaign Retailer Region City Product Sales Method Sales person Category Segment
 0 1200 21 Walmart Midwest Chicago Women's Apparel In-store Oby Sorrel Accessory Accessory
+Predicted value: 315228.0000
